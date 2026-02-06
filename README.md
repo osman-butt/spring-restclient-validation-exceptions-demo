@@ -197,7 +197,7 @@ public class GlobalExceptionHandler {
 - **Service**: `UserService` with business logic
 - **Hibernate**: Auto-creates tables with `spring.jpa.hibernate.ddl-auto=update`
 
-## 🧪 Testing the API
+## Testing the API
 
 ### Using curl
 
