@@ -128,7 +128,7 @@ DELETE /api/todos/{id}
 GET /api/gpt?prompt=Explain what a RestClient is
 ```
 
-## 🔍 Key Concepts Explained
+## Key Concepts Explained
 
 ### 1. RestClient with @HttpExchange
 
@@ -238,7 +238,7 @@ GET http://localhost:8080/api/users
 GET http://localhost:8080/api/users/1/todos
 ```
 
-## 🎯 Learning Exercises
+## Learning Exercises
 
 Try these exercises to deepen your understanding:
 
